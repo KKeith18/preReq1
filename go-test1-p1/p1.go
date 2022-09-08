@@ -47,4 +47,5 @@ func main() {
 	fmt.Println(z)
 	make_slice(z)
 	make_map(z)
+	fmt.Println(z)
 }
